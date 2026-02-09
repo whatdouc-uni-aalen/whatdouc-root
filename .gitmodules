@@ -1,3 +1,15 @@
 [submodule "backend"]
 	path = backend
 	url = git@github.com:whatdouc-uni-aalen/whatdouc-backend.git
+[submodule "frontend/admin-app"]
+	path = frontend/admin-app
+	url = https://github.com/whatdouc-uni-aalen/admin-app.git
+[submodule "frontend/mobile-app"]
+	path = frontend/mobile-app
+	url = https://github.com/whatdouc-uni-aalen/mobile-app.git
+[submodule "frontend/discovery-app"]
+	path = frontend/discovery-app
+	url = https://github.com/whatdouc-uni-aalen/discovery-app.git
+[submodule "frontend/home-page"]
+	path = frontend/home-page
+	url = https://github.com/whatdouc-uni-aalen/whatdouc-home-page.git
